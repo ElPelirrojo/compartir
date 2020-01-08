@@ -19,6 +19,7 @@ public class Compartir {
         System.out.println("8 enero");
         System.out.println("VERDO MOCO");
         System.out.println("AMARILLO");
+        System.out.println("NEGRO");
     }
     
 }
