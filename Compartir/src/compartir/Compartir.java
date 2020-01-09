@@ -21,6 +21,7 @@ public class Compartir {
         System.out.println("AMARILLO");
         System.out.println("blanco");
         System.out.println("NEGRO");
+        System.out.println("MORADO");
     }
     
 }
